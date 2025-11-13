@@ -20,7 +20,7 @@ This system captures real-time audio through a microphone, transcribes it into t
 ## ⚙️ How to Run
 
 ```bash
-git clone https://github.com/nandini-200412/Speech-to-Text
+git clone https://github.com/sharadha-k19/Speech-to-Text
 cd Speech-to-Text
 pip install -r requirements.txt
 python main.py
@@ -38,7 +38,7 @@ pipwin install pyaudio
 
 
 **🙋‍♀️ Author**
-Shiva Nandini Tuppada
-📧 nandinituppada12@gmail.com
-🔗 LinkedIn : www.linkedin.com/in/nandini-tuppada/
+Sharadha Kattalingannagari
+📧 sharadhakattalingannagari@gmail.com
+🔗 LinkedIn : www.linkedin.com/in/sharadha-kattalingannagari-992a4730a
 
